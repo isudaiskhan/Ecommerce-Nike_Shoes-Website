@@ -70,7 +70,7 @@ const Navbar = () => {
       label: 'BLOG',
       submenu: [
         { label: 'BLOG', link: '/blog' },
-        { label: 'BLOG DETAILS', link: '/blogdeals' }
+        { label: 'BLOG DEALS', link: '/blogdeals' }
       ]
     },
     {
